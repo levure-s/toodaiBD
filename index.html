@@ -15,16 +15,29 @@
         </div>
 
         <script>
-            var link = ['https://twitter.com/moe__021/status/1421486086518317059']
-            for(let i in link){
-                $(window).load(function () {
-                    text1 = '<li><a href="'+link[i]+'" target="_blank">';
-                    text2 = '<img src="./image/bdms'+ i +'.png">';
-                    text3 = '</a></li>';
-                    text = text1 + text2 + text3
-                    $('#msg-list').html(text);
-                })
+            var text = ''
+            var link = [
+                'https://twitter.com/moe__021/status/1421486086518317059',
+                'https://twitter.com/ame_nigate/status/1421488426017120258',
+                'https://twitter.com/klee34293156/status/1421489182401171459',
+                'https://twitter.com/hatomo2192/status/1421485813561319435',
+                'https://twitter.com/hatomo2192/status/1421486560814403589',
+                'https://twitter.com/aramaho_yt/status/1421485885548220421',
+                'https://twitter.com/marufoy430/status/1421485837720571906',
+                'https://twitter.com/ZUMI327/status/1421493284262711299',
+                'https://twitter.com/ZUMI327/status/1421493290348605441',
+                'https://twitter.com/OuSkNySo_1116/status/1421485825913548800'
+
+            ]
+            for(let i in link){                
+                let text1 = '<li><a href="'+link[i]+'" target="_blank">';
+                let text2 = '<img src="./image/bdms'+ i +'.png">';
+                let text3 = '</a></br></br></li>';
+                text = text + text1 + text2 + text3;                    
             }
+            $(window).load(function () {
+                $('#msg-list').html(text);
+            })
            
         </script>
 
