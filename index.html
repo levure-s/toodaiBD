@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="./style.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    </head>
+    <body>
+        <div class ="titlle">
+            <h1>灯橙あか生誕祭2021</h1>
+            <h2>灯橙あかちゃん生まれてきてくれてありがとう</h2>
+        </div>
+
+
+        <div class = "msg">
+            <ul id="msg-list"></ul>
+        </div>
+
+        <script>
+            var link = ['https://twitter.com/moe__021/status/1421486086518317059']
+            for(let i in link){
+                $(window).load(function () {
+                    text1 = '<li><a href="'+link[i]+'" target="_blank">';
+                    text2 = '<img src="./image/bdms'+ i +'.png">';
+                    text3 = '</a></li>';
+                    text = text1 + text2 + text3
+                    $('#msg-list').html(text);
+                })
+            }
+           
+        </script>
+
+
+
+        
+    </body>
+</html>
