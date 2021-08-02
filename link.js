@@ -18,6 +18,15 @@ var link = [
     'https://twitter.com/hinanon_1011/status/1421490479632322563',
     'https://twitter.com/KikuKen_1112/status/1421487405052305408',
     'https://twitter.com/mizusa_hi_nin/status/1421608807944265728',
-    'https://twitter.com/miyukiLiSA0512/status/1421485826190417929'
+    'https://twitter.com/miyukiLiSA0512/status/1421485826190417929',
+    'https://twitter.com/hina_orange1214/status/1421801237276598276',
+    'https://twitter.com/Kiki4837/status/1421675999847092227',
+    'https://twitter.com/Mi0311922/status/1421724109864505347',
+    'https://twitter.com/jell_clowner/status/1421656455736795141',
+    'https://twitter.com/ruta3_141592/status/1421487735580200961',
+    'https://twitter.com/iZ3YJR606njq50Q/status/1421607621530849284',
+    'https://twitter.com/PokekaraNagi/status/1421485807534235653',
+    'https://twitter.com/R_atlsh/status/1421497707579940864',
+    'https://twitter.com/rei611quiz/status/1421661944893743105'
 
 ]
