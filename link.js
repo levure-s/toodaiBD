@@ -34,6 +34,10 @@ var link = [
     'https://twitter.com/leona_ocean00/status/1421493963937116162',
     'https://twitter.com/i_ruuka0802/status/1421486135750975492',
     'https://twitter.com/fuu_qk_YouTube/status/1421486676086460423',
-    'https://twitter.com/seika_1114/status/1421487050490974209'
+    'https://twitter.com/seika_1114/status/1421487050490974209',
+    'https://twitter.com/d_goose25/status/1421616398690701316',
+    'https://twitter.com/touno_karin/status/1421592042174435328',
+    'https://twitter.com/hyxUfY2DPaAG2ZQ/status/1421485813578178563',
+    'https://twitter.com/8J6pxh2o0XB5lN9/status/1421623149997658113'
 
 ]

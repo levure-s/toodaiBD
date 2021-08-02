@@ -28,6 +28,14 @@ li {
     vertical-align: middle;
 }
 
+.star{
+    position: absolute;
+    width: 10%;
+    display: block;
+    float: left;
+    margin-left: 10%;
+}
+
 .msg{
     background-color: pink;
 }
