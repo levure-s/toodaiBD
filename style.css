@@ -7,6 +7,13 @@ h1,h2{
     text-align: center;
 }
 
+h1{
+    font-weight:bold;
+	color: transparent;
+	background: linear-gradient(0deg, #B67B03 0%, #DAAF08 45%, #FEE9A0 70%, #DAAF08 85%, #B67B03 90% 100%); 
+	-webkit-background-clip: text;
+}
+
 
 img {
     width               : 100%;
@@ -18,6 +25,7 @@ li {
 	width               : 33%;
 	box-sizing          : border-box;
 	flex-grow           : 1;
+    vertical-align: middle;
 }
 
 .msg{

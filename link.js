@@ -27,6 +27,13 @@ var link = [
     'https://twitter.com/iZ3YJR606njq50Q/status/1421607621530849284',
     'https://twitter.com/PokekaraNagi/status/1421485807534235653',
     'https://twitter.com/R_atlsh/status/1421497707579940864',
-    'https://twitter.com/rei611quiz/status/1421661944893743105'
+    'https://twitter.com/rei611quiz/status/1421661944893743105',
+    'https://twitter.com/kenken00924/status/1421491772555862017',
+    'https://twitter.com/Haru__swim/status/1421627222901727232',
+    'https://twitter.com/hikarigamitaiyo/status/1421533370140426240',
+    'https://twitter.com/leona_ocean00/status/1421493963937116162',
+    'https://twitter.com/i_ruuka0802/status/1421486135750975492',
+    'https://twitter.com/fuu_qk_YouTube/status/1421486676086460423',
+    'https://twitter.com/seika_1114/status/1421487050490974209'
 
 ]
