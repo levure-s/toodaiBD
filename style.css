@@ -30,7 +30,7 @@ li {
 
 .star{
     position: absolute;
-    width: 10%;
+    width: 8%;
     display: block;
     float: left;
     margin-left: 10%;
@@ -38,4 +38,10 @@ li {
 
 .msg{
     background-color: pink;
+}
+
+@media(max-width: 480px){
+    .star{
+        width: 10%;
+    }
 }

@@ -38,6 +38,8 @@ var link = [
     'https://twitter.com/d_goose25/status/1421616398690701316',
     'https://twitter.com/touno_karin/status/1421592042174435328',
     'https://twitter.com/hyxUfY2DPaAG2ZQ/status/1421485813578178563',
-    'https://twitter.com/8J6pxh2o0XB5lN9/status/1421623149997658113'
+    'https://twitter.com/8J6pxh2o0XB5lN9/status/1421623149997658113',
+    'https://twitter.com/sachan_005/status/1421490878049243138',
+    'https://twitter.com/9popopo9/status/1421852456791670791'
 
 ]
