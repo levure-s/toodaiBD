@@ -41,6 +41,7 @@ var link = [
     'https://twitter.com/8J6pxh2o0XB5lN9/status/1421623149997658113',
     'https://twitter.com/sachan_005/status/1421490878049243138',
     'https://twitter.com/9popopo9/status/1421852456791670791',
-    'https://twitter.com/Gin_Weed__Orion/status/1421490192632877060'
+    'https://twitter.com/Gin_Weed__Orion/status/1421490192632877060',
+    'https://twitter.com/haru_halu_0211/status/1421515068152238088'
 
 ]
